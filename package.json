@@ -1,0 +1,26 @@
+{
+  "name": "pentwi25",
+  "version": "1.0.0",
+  "description": "An npm package for node.js",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joselumbreras/PENTWI25.git"
+  },
+  "keywords": [
+    "node",
+    "package",
+    "mean"
+  ],
+  "author": "Darío Lumbreras <jose.lumbreras@softtek.com> (https://github.com/joselumbreras)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joselumbreras/PENTWI25/issues"
+  },
+  "homepage": "https://github.com/joselumbreras/PENTWI25"
+}
